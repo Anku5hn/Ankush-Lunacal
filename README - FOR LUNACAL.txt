@@ -7,4 +7,4 @@
     but I couldn't make them visible outside the overflow-x-scroll container. 
     I would love to learn how to do that.
 5. I also tried to make the button animation in the 'About Me' widget but couldn't; I'd love to learn that too.
-6. This project is only responisve for 1920 x 1080 16:9 resolution. 
+6. This project is only responisve for 1920 x 1080 resolution. 
